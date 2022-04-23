@@ -1,0 +1,3 @@
+- My name is Marek Materzok and I work at the Computer Science Institute in University of Wrocław, Poland. 
+- I'm interested in programming languages, hardware design languages, embedded systems.
+- Contact address: tilk@tilk.eu
